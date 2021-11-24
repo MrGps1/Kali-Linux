@@ -35,5 +35,4 @@ c(Fore.GREEN+'chmod 777 install-nethunter-termux')
 system('chmod 777 install-nethunter-termux')
 
 c(Fore.RED+'./install-nethunter-termux')
-system('./install-nethunter-termux 
-')
+system('./install-nethunter-termux')
